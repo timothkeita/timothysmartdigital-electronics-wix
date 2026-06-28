@@ -98,7 +98,7 @@ https://timothykeita56.wixsite.com/timothy-smart-digita
 
 # GitHub Repository
 
-*(Paste your GitHub repository URL here.)*
+(https://github.com/timothkeita)
 
 # Conclusion
 
